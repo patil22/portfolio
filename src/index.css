@@ -1,0 +1,621 @@
+.gaurav{
+  position: relative;
+  left: -11px;
+  color:rgb(220,20,60) ;
+}
+.patil{
+  position: relative;
+  left: -10px;
+  color:rgb(220,20,60) ;
+}
+.gaurav:hover{
+  cursor: pointer;
+}
+.patil:hover{
+  cursor: pointer;
+}
+.h3{
+  border: 2px solid red;
+  text-align: center;
+  width: 420px;
+}
+.h4{
+  border : 2px solid green;
+}
+.h1{
+margin-left: 40px;
+}
+
+/* Navbar  */
+#navbar {
+
+  position: sticky;
+  top: 1px;
+  height: 91px;
+   /* height: 120px;  */
+  /* background-color:  rgb(237,242,248); */
+  background-color: rgb(237,242,248);
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+
+
+
+.flex{
+  position: absolute;
+  top:12px;
+  left: 480px;
+  display: flex;
+  justify-content: space-around;
+color: black;
+  font-size: 18px;
+  font-weight: bolder;
+
+}
+.flex:hover{
+  color: white;
+  background-color: rgb(220,20,60);
+  border: 2px solid rgb(220,20,60)  ;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Home page */
+.home{
+  position: absolute;
+  top: 178px;
+  left: 240px;
+   /* border: 2px solid forestgreen;  */
+   height: 200px;
+   width: 100%;
+   /* background-color: rgb(237,242,248); */
+}
+
+#ho{
+  position: absolute;
+  /* top: -94px; */
+  top: 48px;
+  width: 100%;
+  height: 900px;
+  /* border: 2px solid red; */
+  background-color: rgb(237,242,248);
+}
+.home1{
+  position: relative;
+  top: 212px;
+  left: 222px;
+}
+.home2{
+  position: relative;
+  top: 170px;
+  left: 220px;
+}
+#btn{
+  position: relative;
+  top: 211px;
+  left: 220px;
+  height: 53px;
+  width: 150px;
+  background-color: rgb(220,20,60);
+  color: white;
+  font-size: 18px;
+  font-weight: bolder;
+  border: 2px solid rgb(220,29,60);
+  border-radius: 12px;
+}
+#btn:hover{
+  color: rgb(220,29,60);
+  background-color: white;
+}
+#img{
+  position: absolute;
+  left: 944px;
+  top: 142px;
+  height: 300px;
+  width: 300px;
+border-radius: 332px;
+}
+.full{
+  position: relative;
+  top: 170px;
+  left: 220px;
+  color: rgb(220,20,60);
+}
+.flex1{
+  position: absolute;
+  top: 12px;
+  left: 580px;
+
+  color: black;
+  font-size:18px;
+  font-weight: bolder;
+}
+.flex1:hover{
+  color: white;
+  background-color: rgb(220,20,60);
+  border: 2px solid rgb(220,20,60);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.flex2{
+  position: absolute;
+  top: 12px;
+  left: 675px;
+
+
+  
+  color: black;
+  font-size:18px;
+  font-weight: bolder;
+}
+
+.flex2:hover{
+  color: white;
+  background-color: rgb(220,20,60);
+  border: 2px solid rgb(220,20,60);
+  border-radius: 5px;
+  cursor: pointer;
+}
+.flexproject{
+  position: absolute;
+  /* top: -44px; */
+  top: 14px;
+  left: 782px;
+  color: rgb(15, 15, 15);
+  font-size:18px;
+  font-weight: bolder;
+
+}
+
+.flexproject:hover{
+  color: white;
+  background-color:  rgb(220,20,60);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.flexteckstack{
+  position: absolute;
+  top: 12px;
+  left: 885px;
+
+
+  
+  color: black;
+  font-size:18px;
+  font-weight: bolder;
+}
+.flexteckstack:hover{
+  color: white;
+  background-color: rgb(220,20,60);
+  border: 2px solid rgb(220,20,60);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+.flexskills{
+  position: absolute;
+  top: 12px;
+  left: 1010px;
+
+  color: black;
+  font-size:18px;
+  font-weight: bolder;
+
+}
+.flexskills:hover{
+  color: white;
+  background-color: rgb(220,20,60);
+  border: 2px solid rgb(220,20,60);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.flexresume{
+  position: absolute;
+  top: 9px;
+  left: 1090px;
+text-align: center;
+/* 
+  color: black;
+  font-size:18px;
+  font-weight: bolder; */
+  height: 35px;
+  width: 120px;
+  background-color: rgb(220,20,60);
+  color: white;
+  font-size: 18px;
+  font-weight: bolder;
+  border: 2px solid rgb(220,29,60);
+  border-radius: 6px;
+}
+.flexresume:hover{
+  color: rgb(220,29,60);
+  background-color: white;
+}
+.flexdarkmode{
+  position: absolute;
+  top: 12px;
+  left: 1235px;
+
+
+  
+  color: black;
+  font-size:18px;
+  font-weight: bolder;
+}
+.scroll1{
+  background-color: aqua;
+  height: 120px;
+  width: 220px;
+}
+.scrollhome{
+  position: relative;
+  top: -70px;
+}
+
+
+
+
+.contactdiv{
+  border: 2px solid green;
+  width: 633px;
+  position: relative;
+  top: 84px;
+  left: 382px;
+}
+
+
+/* contact page form */
+
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+
+
+
+/* About page */
+.about{
+  position: absolute;
+  /* top: -1297px; */
+   top :97;
+  left: 420px;
+  /* border: 2px solid rgb(199, 41, 204); */
+}
+#aboutimg{
+  position: relative;
+  left: -450px;
+  top: 160px;
+
+}
+#p1{
+  position: absolute;
+  right: -49px;
+  top: 255px;
+}
+#p2{
+  position: absolute;
+  right: -49px;
+  top: 320px;
+}
+#whoiam{
+  position: relative;
+  top: 150px;
+  left: 133px;
+  font-weight: bolder;
+   /* text-decoration: underline;  */
+  /* text-decoration: unset; */
+}
+#who{
+  color: rgb(220,20,60);
+}
+#hr{
+  position: relative;
+  top: 152px;
+  left: 121px;
+     width: 220px; 
+  height: 15px;
+  color:rgb(220,20,60) ;
+}
+.scrollabout{
+  position: relative;
+  top: -120px;
+}
+/* Project page */
+.project{
+  border: 2px solid red;
+  position: absolute;
+  top: 95px;
+  left: 486px;
+  width: 420px;
+}
+.scrollProject{
+  position: relative;
+  top: 120px;
+}
+.teckstack{
+  position: absolute;
+  top: 122px;
+  left: 488px;
+  /* border: 2px solid teal; */
+  width: 444px;
+  text-align: center;
+}
+/* html */
+#htmljpg{
+  position:absolute;
+  top: 20px;
+  left: -430px;
+  /* height: 100%;
+  width: 100%; */
+  height: 160px;
+  width: 160px;
+}
+/* #htmljpg:hover{
+  height: 200px;
+  width: 200px;
+} */
+#htmljpgdiv{
+  /* border: 2px solid black; */
+  position: absolute;
+  top: 20px;
+  left: -450px;
+  height: 200px;
+  width: 200px;
+  background-color: rgb(100, 98, 98);
+}
+/* #htmljpgdiv:hover{
+  height: 220px;
+  width: 220px;
+} */
+#spanhtml{
+  color: white;
+  font-weight: bolder;
+  position: relative;
+  top: 165px;
+}
+/* css */
+#cssjpgdiv{
+  /* border: 2px solid black; */
+  position: absolute;
+  top: 20px;
+  left: -190px;
+  height: 200px;
+  width: 200px;
+  background-color: rgb(100, 98, 98);
+}
+#cssjpg{
+  position:absolute;
+  top: 25px;
+  left: -165px;
+  /* height: 100%;
+  width: 100%; */
+  height: 150px;
+  width: 150px;
+}
+#spancss{
+  color: white;
+  font-weight: bolder;
+  position: relative;
+  top: 165px;
+}
+/* javascript  */
+#jsjpgdiv{
+  /* border: 2px solid black; */
+  position: absolute;
+  top: 20px;
+  left: 60px;
+  height: 200px;
+  width: 200px;
+  background-color: rgb(100, 98, 98);
+}
+#jsjpg{
+  position:absolute;
+  top: 30px;
+  left: 85px;
+  /* height: 100%;
+  width: 100%; */
+  height: 150px;
+  width: 150px;
+}
+#spanjs{
+  color: white;
+  font-weight: bolder;
+  position: relative;
+  top: 165px;
+}
+    /* bootstrap */
+    #btjpgdiv{
+      /* border: 2px solid black; */
+      position: absolute;
+      top: 20px;
+      left: 320px;
+      height: 200px;
+      width: 200px;
+      background-color: rgb(100, 98, 98);
+    }
+    #btjpg{
+      position:absolute;
+      top: 30px;
+      left: 345px;
+      /* height: 100%;
+      width: 100%; */
+      height: 150px;
+      width: 150px;
+    }
+    #spanbt{
+      color: white;
+      font-weight: bolder;
+      position: relative;
+      top: 165px;
+    }
+/* react */
+#rtjpgdiv{
+  /* border: 2px solid black; */
+  position: absolute;
+  top: 20px;
+  left: 580px;
+  height: 200px;
+  width: 200px;
+  background-color: rgb(100, 98, 98);
+}
+#rtjpg{
+  position:absolute;
+  top: 30px;
+  left: 605px;
+  /* height: 100%;
+  width: 100%; */
+  height: 150px;
+  width: 150px;
+}
+#spanrt{
+  color: white;
+  font-weight: bolder;
+  position: relative;
+  top: 165px;
+}
+/* node */
+#nojpgdiv{
+  /* border: 2px solid black; */
+  position: absolute;
+  top: 240px;
+  left: -450px;
+  height: 200px;
+  width: 200px;
+  background-color: rgb(100, 98, 98);
+}
+#nojpg{
+  position:absolute;
+  top: 250px;
+  left: -430px;
+  /* height: 100%;
+  width: 100%; */
+  height: 150px;
+  width: 150px;
+}
+#spanno{
+  color: white;
+  font-weight: bolder;
+  position: relative;
+  top: 165px;
+}
+/* express */
+#exjpgdiv{
+  /* border: 2px solid black; */
+  position: absolute;
+  top: 240px;
+  left: -190px;
+  height: 200px;
+  width: 200px;
+  background-color: rgb(100, 98, 98);
+}
+#exjpg{
+  position:absolute;
+  top: 250px;
+  left: -170px;
+  /* height: 100%;
+  width: 100%; */
+  height: 150px;
+  width: 150px;
+}
+#spanex{
+  color: white;
+  font-weight: bolder;
+  position: relative;
+  top: 165px;
+}
+/* redux */
+#redjpgdiv{
+  /* border: 2px solid black; */
+  position: absolute;
+  top: 240px;
+  left: 60px;
+  height: 200px;
+  width: 200px;
+  background-color: rgb(100, 98, 98);
+}
+#redjpg{
+  position:absolute;
+  top: 250px;
+  left: 80px;
+  /* height: 100%;
+  width: 100%; */
+  height: 150px;
+  width: 150px;
+}
+#spanred{
+  color: white;
+  font-weight: bolder;
+  position: relative;
+  top: 165px;
+}
+/* redux */
+#reduxjpgdiv{
+  /* border: 2px solid black; */
+  position: absolute;
+  top: 240px;
+  left: 320px;
+  height: 200px;
+  width: 200px;
+  background-color: rgb(100, 98, 98);
+}
+#reduxjpg{
+  position:absolute;
+  top: 250px;
+  left: 350px;
+  /* height: 100%;
+  width: 100%; */
+  height: 150px;
+  width: 150px;
+  border-radius: 38px;
+}
+#spanredux{
+  color: white;
+  font-weight: bolder;
+  position: relative;
+  top: 165px;
+}
+
+/* skills */
+.skills{
+  /* border: 2px solid firebrick;*/
+  width: 555px; 
+  position: absolute;
+  top: -110px;
+  left: 352px;
+}
+
