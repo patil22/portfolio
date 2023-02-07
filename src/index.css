@@ -314,13 +314,36 @@ input[type=submit]:hover {
   /* top: -1297px; */
    top :97;
   left: 420px;
-  /* border: 2px solid rgb(199, 41, 204); */
+  /* border: 2px solid rgb(199, 41, 204);  */
 }
-#aboutimg{
+.about>h1{
   position: relative;
-  left: -450px;
-  top: 160px;
+  top: 110px;
+}
+#t1{
+  position: relative;
+  top: 251px;
+  left: 340px;
+}
+#t2{
+  position: relative;
+  top: 250px;
+  left: 340px;
+}
+/* #aaab{
+  position: absolute;
+  top: 255px;
+  left: 300px;
+} */
+#aaab{
+ position: relative;
+ top: 111px;
 
+
+}
+#ppp{
+  position: relative;
+  top: 222px;
 }
 #p1{
   position: absolute;
@@ -332,7 +355,7 @@ input[type=submit]:hover {
   right: -49px;
   top: 320px;
 }
-#whoiam{
+#whoiamn{
   position: relative;
   top: 150px;
   left: 133px;
@@ -340,7 +363,7 @@ input[type=submit]:hover {
    /* text-decoration: underline;  */
   /* text-decoration: unset; */
 }
-#who{
+#whon{
   color: rgb(220,20,60);
 }
 #hr{
@@ -353,7 +376,7 @@ input[type=submit]:hover {
 }
 .scrollabout{
   position: relative;
-  top: -120px;
+  top: 110px;
 }
 /* Project page */
 .project{
